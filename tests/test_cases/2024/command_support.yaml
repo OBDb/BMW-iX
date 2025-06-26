@@ -1,6 +1,6 @@
 model_year: 2024
 supported_commands_by_ecu:
-  6F1:
+  "6F1":
   - 6F1.607.22DDBC|e=07,fc=1:BMW_HVBAT_SOC,BMW_HVBAT_SOC_MAX,BMW_HVBAT_SOC_MIN
   - 6F1.607.22DDC0|e=07,fc=1:BMW_HVBAT_CT_MAX,BMW_HVBAT_CT_MIN
   - 6F1.607.22E5C7|e=07,fc=1:BMW_HVBAT_SOH_V2
@@ -11,7 +11,7 @@ supported_commands_by_ecu:
   - 6F1.660.22D10D|e=60,fc=1:BMW_ODO1,BMW_ODO2
   - 6F1.660.22D112|e=60,fc=1:BMW_AAT
 unsupported_commands_by_ecu:
-  6F1:
+  "6F1":
   - 6F1.607.226335|e=07,fc=1:BMW_HVBAT_SOH
   - 6F1.607.22DD68|e=07,fc=1:BMW_HVBAT_V
   - 6F1.607.22DD69|e=07,fc=1:BMW_HVBAT_C,BMW_HVBAT_CURR
