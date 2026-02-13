@@ -26,6 +26,11 @@ test_cases:
     607F1100762E5C720E0
     607F1212DAF
 - expected_values:
+    BMW_HVBAT_SOH_V2: 10
+  response: |-
+    607F1100762E5C72700
+    607F1212E0A
+- expected_values:
     BMW_HVBAT_SOH_V2: 41
   response: |-
     607F1100762E5C72911
@@ -35,11 +40,6 @@ test_cases:
   response: |-
     607F1100762E5C7297C
     607F1213BB7
-- expected_values:
-    BMW_HVBAT_SOH_V2: 100
-  response: |-
-    607F1100762E5C72B00
-    607F1212DED
 - expected_values:
     BMW_HVBAT_SOH_V2: 100
   response: |-
