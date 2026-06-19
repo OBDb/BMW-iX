@@ -1,0 +1,32 @@
+command_id: 6F1.607.22E5CE|e=07,fc=1
+test_cases:
+- expected_values:
+    BMW_HVBAT_SOC_V2: 64.37
+  response: |-
+    607F1100962E5CE1925
+    607F121190B193A
+- expected_values:
+    BMW_HVBAT_SOC_V2: 64.43
+  response: |-
+    607F1100962E5CE192B
+    607F12119121940
+- expected_values:
+    BMW_HVBAT_SOC_V2: 64.89
+  response: |-
+    607F1100962E5CE1959
+    607F1211940196F
+- expected_values:
+    BMW_HVBAT_SOC_V2: 65.21
+  response: |-
+    607F1100962E5CE1979
+    607F121195F198E
+- expected_values:
+    BMW_HVBAT_SOC_V2: 66.44
+  response: |-
+    607F1100962E5CE19F4
+    607F12119D91A09
+- expected_values:
+    BMW_HVBAT_SOC_V2: 66.48
+  response: |-
+    607F1100962E5CE19F8
+    607F12119DE1A0D
