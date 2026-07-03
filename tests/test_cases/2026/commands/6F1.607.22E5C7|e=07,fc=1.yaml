@@ -3,6 +3,11 @@ test_cases:
 - expected_values:
     BMW_HVBAT_SOH_V2: 100
   response: |-
+    607F1100762E5C72298
+    607F12137EA
+- expected_values:
+    BMW_HVBAT_SOH_V2: 100
+  response: |-
     607F1100762E5C72A03
     607F1213880
 - expected_values:
