@@ -3,8 +3,18 @@ test_cases:
 - expected_values:
     BMW_HVBAT_SOH_V2: 100
   response: |-
-    607F1100762E5C72298
-    607F12137EA
+    607F1100762E5C71FA0
+    607F1213794
+- expected_values:
+    BMW_HVBAT_SOH_V2: 100
+  response: |-
+    607F1100762E5C72009
+    607F12137A0
+- expected_values:
+    BMW_HVBAT_SOH_V2: 100
+  response: |-
+    607F1100762E5C721F1
+    607F12137D3
 - expected_values:
     BMW_HVBAT_SOH_V2: 100
   response: |-
@@ -15,8 +25,3 @@ test_cases:
   response: |-
     607F1100762E5C72A55
     607F121387F
-- expected_values:
-    BMW_HVBAT_SOH_V2: 100
-  response: |-
-    607F1100762E5C72ADE
-    607F121387E
