@@ -1,10 +1,15 @@
 command_id: 6F1.607.22E5C7|e=07,fc=1
 test_cases:
 - expected_values:
-    BMW_HVBAT_SOH_V2: 100
+    BMW_HVBAT_SOH_V2: 97
   response: |-
-    607F1100762E5C71A5D
-    607F1212DBC
+    607F1100762E5C719EA
+    607F1212E61
+- expected_values:
+    BMW_HVBAT_SOH_V2: 96
+  response: |-
+    607F1100762E5C71A0D
+    607F1212E60
 - expected_values:
     BMW_HVBAT_SOH_V2: 100
   response: |-
@@ -20,11 +25,6 @@ test_cases:
   response: |-
     607F1100762E5C71B88
     607F1212E5F
-- expected_values:
-    BMW_HVBAT_SOH_V2: 100
-  response: |-
-    607F1100762E5C71E07
-    607F1212DA0
 - expected_values:
     BMW_HVBAT_SOH_V2: 99
   response: |-
