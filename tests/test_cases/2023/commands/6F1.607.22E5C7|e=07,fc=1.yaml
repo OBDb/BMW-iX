@@ -1,0 +1,14 @@
+command_id: 6F1.607.22E5C7|e=07,fc=1
+test_cases:
+- expected_values:
+    IX_HVBAT_E_CAP: 66.46
+    IX_HVBAT_E_STORED: 58.69
+  response: |-
+    607F1100762E5C72A75
+    607F1212D7E
+- expected_values:
+    IX_HVBAT_E_CAP: 66.46
+    IX_HVBAT_E_STORED: 58.73
+  response: |-
+    607F1100762E5C72A79
+    607F1212D7E
