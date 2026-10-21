@@ -1,0 +1,56 @@
+command_id: 6F1.607.22E5C7|e=07,fc=1
+test_cases:
+- expected_values:
+    IX_HVBAT_E_CAP: 97.78
+    IX_HVBAT_E_STORED: 31.79
+  response: |-
+    607F1100762E5C71FF3
+    607F12139BA
+- expected_values:
+    IX_HVBAT_E_CAP: 97.77
+    IX_HVBAT_E_STORED: 32.62
+  response: |-
+    607F1100762E5C72046
+    607F12139B9
+- expected_values:
+    IX_HVBAT_E_CAP: 99.69
+    IX_HVBAT_E_STORED: 34.46
+  response: |-
+    607F1100762E5C720FE
+    607F1213A79
+- expected_values:
+    IX_HVBAT_E_CAP: 96.49
+    IX_HVBAT_E_STORED: 40.69
+  response: |-
+    607F1100762E5C7236D
+    607F1213939
+- expected_values:
+    IX_HVBAT_E_CAP: 98.32
+    IX_HVBAT_E_STORED: 54.69
+  response: |-
+    607F1100762E5C728E5
+    607F12139F0
+- expected_values:
+    IX_HVBAT_E_CAP: 96.7
+    IX_HVBAT_E_STORED: 60.08
+  response: |-
+    607F1100762E5C72B00
+    607F121394E
+- expected_values:
+    IX_HVBAT_E_CAP: 98.15
+    IX_HVBAT_E_STORED: 84.29
+  response: |-
+    607F1100762E5C73475
+    607F12139DF
+- expected_values:
+    IX_HVBAT_E_CAP: 103.79
+    IX_HVBAT_E_STORED: 89.15
+  response: |-
+    607F1100762E5C7365B
+    607F1213C13
+- expected_values:
+    IX_HVBAT_E_CAP: 100.89
+    IX_HVBAT_E_STORED: 96.88
+  response: |-
+    607F1100762E5C73960
+    607F1213AF1

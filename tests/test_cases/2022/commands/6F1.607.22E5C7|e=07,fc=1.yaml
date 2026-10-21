@@ -1,0 +1,50 @@
+command_id: 6F1.607.22E5C7|e=07,fc=1
+test_cases:
+- expected_values:
+    IX_HVBAT_E_CAP: 68.73
+    IX_HVBAT_E_STORED: 16.34
+  response: |-
+    607F1100762E5C719EA
+    607F1212E61
+- expected_values:
+    IX_HVBAT_E_CAP: 68.72
+    IX_HVBAT_E_STORED: 16.69
+  response: |-
+    607F1100762E5C71A0D
+    607F1212E60
+- expected_values:
+    IX_HVBAT_E_CAP: 69.31
+    IX_HVBAT_E_STORED: 19.13
+  response: |-
+    607F1100762E5C71B01
+    607F1212E9B
+- expected_values:
+    IX_HVBAT_E_CAP: 101.33
+    IX_HVBAT_E_STORED: 19.67
+  response: |-
+    607F1100762E5C71B37
+    607F1213B1D
+- expected_values:
+    IX_HVBAT_E_CAP: 68.71
+    IX_HVBAT_E_STORED: 20.48
+  response: |-
+    607F1100762E5C71B88
+    607F1212E5F
+- expected_values:
+    IX_HVBAT_E_CAP: 66.19
+    IX_HVBAT_E_STORED: 31.91
+  response: |-
+    607F1100762E5C71FFF
+    607F1212D63
+- expected_values:
+    IX_HVBAT_E_CAP: 67.86
+    IX_HVBAT_E_STORED: 49.84
+  response: |-
+    607F1100762E5C72700
+    607F1212E0A
+- expected_values:
+    IX_HVBAT_E_CAP: 68.76
+    IX_HVBAT_E_STORED: 68.13
+  response: |-
+    607F1100762E5C72E25
+    607F1212E64
