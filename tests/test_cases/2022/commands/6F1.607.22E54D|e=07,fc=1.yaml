@@ -1,0 +1,17 @@
+command_id: 6F1.607.22E54D|e=07,fc=1
+test_cases:
+- expected_values:
+    IX_HVBAT_V: 376.46
+  response: 607F10562E54D930E
+- expected_values:
+    IX_HVBAT_V: 377.54
+  response: 607F10562E54D937A
+- expected_values:
+    IX_HVBAT_V: 379.12
+  response: 607F10562E54D9418
+- expected_values:
+    IX_HVBAT_V: 379.34
+  response: 607F10562E54D942E
+- expected_values:
+    IX_HVBAT_V: 380.46
+  response: 607F10562E54D949E
