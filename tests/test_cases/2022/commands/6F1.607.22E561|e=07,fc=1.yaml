@@ -1,0 +1,27 @@
+command_id: 6F1.607.22E561|e=07,fc=1
+test_cases:
+- expected_values:
+    IX_HVBAT_CURRENT: 87.63
+  response: |-
+    607F1100762E561FFFF
+    607F121DDC5
+- expected_values:
+    IX_HVBAT_CURRENT: 63.85
+  response: |-
+    607F1100762E561FFFF
+    607F121E70F
+- expected_values:
+    IX_HVBAT_CURRENT: 41.94
+  response: |-
+    607F1100762E561FFFF
+    607F121EF9E
+- expected_values:
+    IX_HVBAT_CURRENT: 35.51
+  response: |-
+    607F1100762E561FFFF
+    607F121F221
+- expected_values:
+    IX_HVBAT_CURRENT: 14.38
+  response: |-
+    607F1100762E561FFFF
+    607F121FA62

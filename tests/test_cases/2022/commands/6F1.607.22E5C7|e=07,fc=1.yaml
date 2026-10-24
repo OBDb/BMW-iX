@@ -43,6 +43,12 @@ test_cases:
     607F1100762E5C72700
     607F1212E0A
 - expected_values:
+    IX_HVBAT_E_CAP: 96.13
+    IX_HVBAT_E_STORED: 53.79
+  response: |-
+    607F1100762E5C7288B
+    607F1213915
+- expected_values:
     IX_HVBAT_E_CAP: 68.76
     IX_HVBAT_E_STORED: 68.13
   response: |-
