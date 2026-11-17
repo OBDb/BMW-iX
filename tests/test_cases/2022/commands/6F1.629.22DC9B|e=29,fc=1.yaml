@@ -1,11 +1,11 @@
 command_id: 6F1.629.22DC9B|e=29,fc=1
 test_cases:
 - expected_values:
-    IX_TPMS_BAT_RR: 23040
+    IX_TPMS_BAT_RR: 90
     IX_TPMS_POS_RR: 211
     IX_TPMS_RX_RR: 100
-    IX_TP_RR: 19.98
-    IX_TP_SET_RR: 26.38
+    IX_TP_RR: 3.15
+    IX_TP_SET_RR: 3.175
     IX_TT_RR: 63
   response: |-
     629F1101B62DC9B23E9
@@ -14,11 +14,11 @@ test_cases:
     629F1232B005A000000
     629F12402020303
 - expected_values:
-    IX_TPMS_BAT_RR: 23040
+    IX_TPMS_BAT_RR: 90
     IX_TPMS_POS_RR: 211
     IX_TPMS_RX_RR: 100
-    IX_TP_RR: 26.38
-    IX_TP_SET_RR: 26.38
+    IX_TP_RR: 3.175
+    IX_TP_SET_RR: 3.175
     IX_TT_RR: 63
   response: |-
     629F1101B62DC9B23E9
@@ -27,11 +27,11 @@ test_cases:
     629F12344005A000000
     629F12403020303
 - expected_values:
-    IX_TPMS_BAT_RR: 23040
+    IX_TPMS_BAT_RR: 90
     IX_TPMS_POS_RR: 211
     IX_TPMS_RX_RR: 100
-    IX_TP_RR: 26.38
-    IX_TP_SET_RR: -32.756
+    IX_TP_RR: 3.175
+    IX_TP_SET_RR: 3.2
     IX_TT_RR: 64
   response: |-
     629F1101B62DC9B23E9
@@ -40,11 +40,11 @@ test_cases:
     629F1235B005A000000
     629F12402020303
 - expected_values:
-    IX_TPMS_BAT_RR: 23040
+    IX_TPMS_BAT_RR: 90
     IX_TPMS_POS_RR: 211
     IX_TPMS_RX_RR: 100
-    IX_TP_RR: 26.38
-    IX_TP_SET_RR: -32.756
+    IX_TP_RR: 3.175
+    IX_TP_SET_RR: 3.2
     IX_TT_RR: 64
   response: |-
     629F1101B62DC9B23E9
