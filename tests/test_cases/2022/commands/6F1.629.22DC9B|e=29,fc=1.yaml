@@ -6,7 +6,7 @@ test_cases:
     IX_TPMS_RX_RR: 100
     IX_TP_RR: 3.15
     IX_TP_SET_RR: 3.175
-    IX_TT_RR: 63
+    IX_TT_RR: 13
   response: |-
     629F1101B62DC9B23E9
     629F121CB48D30C4E3F
@@ -19,7 +19,7 @@ test_cases:
     IX_TPMS_RX_RR: 100
     IX_TP_RR: 3.175
     IX_TP_SET_RR: 3.175
-    IX_TT_RR: 63
+    IX_TT_RR: 13
   response: |-
     629F1101B62DC9B23E9
     629F121CB48D30C673F
@@ -32,7 +32,7 @@ test_cases:
     IX_TPMS_RX_RR: 100
     IX_TP_RR: 3.175
     IX_TP_SET_RR: 3.2
-    IX_TT_RR: 64
+    IX_TT_RR: 14
   response: |-
     629F1101B62DC9B23E9
     629F121CB48D30C6740
@@ -45,7 +45,7 @@ test_cases:
     IX_TPMS_RX_RR: 100
     IX_TP_RR: 3.175
     IX_TP_SET_RR: 3.2
-    IX_TT_RR: 64
+    IX_TT_RR: 14
   response: |-
     629F1101B62DC9B23E9
     629F121CB48D30C6740
